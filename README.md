@@ -29,6 +29,7 @@ Análise:
  
 ● Quantidade de clientes no arquivo de entrada
 ● Quantidade de vendedor no arquivo de entrada
+● Quantidade de vendas por vendedor
 ● O pior vendedor
 ● Lista de vendas
 ● IDs das vendas
